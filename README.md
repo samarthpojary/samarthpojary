@@ -14,12 +14,12 @@
 <p align="center">
   <img src="https://github.com/samarthpojary.png" alt="Samarth's Avatar" width="150" height="150" style="border-radius:50%;" />
 </p>
-- 🎓 **BCA Graduate**
-- 💻 Passionate **Web Developer, Data Analyst, Business Analyst**
-- 📊 Love building **Dashboards & Systems**
-- 🛠️ PHP • MySQL • JavaScript • HTML • CSS
-- 🌱 Currently learning **Full-Stack Development**
-- 🎯 Open to **Fresher Roles & Internships**
+- 🎓 **BCA Graduate**<br>
+- 💻 Passionate **Web Developer, Data Analyst, Business Analyst**<br>
+- 📊 Love building **Dashboards & Systems**<br>
+- 🛠️ PHP • MySQL • JavaScript • HTML • CSS<br>
+- 🌱 Currently learning **Full-Stack Development** && Data Analysis<br>
+- 🎯 Open to **Fresher Roles & Internships**<br>
 
 ---
 
