@@ -1,4 +1,4 @@
-<h1 align="center">Heyy! 👋 I'm Samarth</h1>
+<h1 align="center">Heyy! 👋 I'm Samarth P</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=BCA+Graduate;Developing+and+Analysis;PHP+%7C+MySQL+%7C+Java+%7C+Python;Building+Real+World+Projects" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me:
 <p align="center">
   <img src="https://github.com/samarthpojary.png" alt="Samarth's Avatar" width="150" height="150" style="border-radius:50%;" />
 </p>
