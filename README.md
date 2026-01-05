@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=samarthpojary&label=Profile%20Views&color=00E7FF&style=flat" />
 </p>
 
----
+----
 
 ## 🧑‍💻 About Me:
 <p align="center">
@@ -21,14 +21,14 @@
 - 🌱 Currently learning **Full-Stack Development** && Data Analysis<br>
 - 🎯 Open to **Fresher Roles & Internships**<br>
 
----
+----
 
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,java,python,vscode&theme=dark" />
 </p>
 
----
+----
 
 ## ⭐ Featured Projects
 🚀 **SalesPulse – Sales Dashboard Generator**
@@ -40,7 +40,7 @@
 - Secure Authentication & Role-Based Access
 🔗 [View Project](https://github.com/samarthpojary/Career-Hunt)
 
----
+----
 
 ## 📫 Connect With Me
 <p align="center">
@@ -49,6 +49,6 @@
   <a href="https://github.com/samarthpojary"><img src="https://img.shields.io/badge/GitHub-00E7FF?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
 
----
+----
 
 <h3 align="center">⭐ Thanks for visiting! Keep building 🚀</h3>
